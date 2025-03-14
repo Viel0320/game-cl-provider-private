@@ -19,9 +19,7 @@ ipv6: false
 allow-lan: true
 unified-delay: true
 tcp-concurrent: true
-profile:
-  store-selected: true
-  store-fake-ip: true
+
   
 # 控制面板
 external-controller: 0.0.0.0:9090
