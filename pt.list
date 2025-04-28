@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,bangumi.cloud
 DOMAIN-SUFFIX,bangumi.online
 DOMAIN-SUFFIX,violet.run
 IP-CIDR,46.3.109.178/32,no-resolve
+DOMAIN-SUFFIX,bilipili.eu
 
 
 
