@@ -134,6 +134,6 @@ IP-CIDR,183.237.254.194/32,no-resolve
 IP-CIDR,150.109.107.145/32,no-resolve
 IP-CIDR,216.239.35.0/32,no-resolve
 IP-CIDR,104.16.132.229/32,no-resolve
-IP-CIDR,35.186.224.24/32,no-resolve
+
 IP-CIDR,104.26.12.31/32,no-resolve
 IP-CIDR,20.198.162.78/32,no-resolve
