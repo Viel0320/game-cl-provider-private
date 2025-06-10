@@ -105,7 +105,7 @@ DOMAIN,rewards.hypixel.net
 DOMAIN-SUFFIX,koodomobile.com
 DOMAIN-SUFFIX,koodomobile.ca
 
-DOMAIN-SUFFIX,windows.com
+DOMAIN,time.windows.com
 
 IP-CIDR,58.63.233.2/32,no-resolve
 IP-CIDR,58.63.233.3/32,no-resolve
