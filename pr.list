@@ -34,3 +34,7 @@ DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-KEYWORD,quickconnect
 DOMAIN-KEYWORD,embyplus.org
+
+
+IP-CIDR,198.18.12.28/32,no-resolve
+IP-CIDR,198.18.12.29/32,no-resolve
