@@ -33,7 +33,14 @@ DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-KEYWORD,quickconnect
-DOMAIN-KEYWORD,embyplus.org
+
+DOMAIN-SUFFIX,pili.im
+DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,pilipiliultra.com
+DOMAIN-SUFFIX,biliblili.uk
+DOMAIN-SUFFIX,bangumi.ca
+
 
 
 IP-CIDR,198.18.12.28/32,no-resolve
