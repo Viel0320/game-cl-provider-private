@@ -108,7 +108,6 @@ DOMAIN-SUFFIX,koodomobile.ca
 
 DOMAIN,time.windows.com
 
-DOMAIN-SUFFIX,pilipiliultra.com
 
 IP-CIDR,58.63.233.2/32,no-resolve
 IP-CIDR,58.63.233.3/32,no-resolve
