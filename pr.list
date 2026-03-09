@@ -45,3 +45,7 @@ DOMAIN-SUFFIX,bangumi.ca
 
 IP-CIDR,198.18.12.28/32,no-resolve
 IP-CIDR,198.18.12.29/32,no-resolve
+
+DOMAIN-SUFFIX,sankakuapi.com
+DOMAIN-SUFFIX,sankakuapp.com
+DOMAIN-SUFFIX,sankakucomplex.com
