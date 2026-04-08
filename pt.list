@@ -42,7 +42,7 @@ DOMAIN-SUFFIX,desync.com
 DOMAIN-SUFFIX,sda1.dev
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,wetest.net
-DOMAIN-SUFFIX,bsbsb.top
+# DOMAIN-SUFFIX,bsbsb.top
 DOMAIN-SUFFIX,goofish.com
 
 
