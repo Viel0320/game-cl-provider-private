@@ -110,7 +110,7 @@ DOMAIN,time.windows.com
 
   # Spotify
 DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
-DOMAIN-SUFFIX,heads-fa.scdn.co
+DOMAIN-SUFFIX,scdn.co
 
 
 IP-CIDR,58.63.233.2/32,no-resolve
