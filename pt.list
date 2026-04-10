@@ -42,7 +42,7 @@ DOMAIN-SUFFIX,desync.com
 DOMAIN-SUFFIX,sda1.dev
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,wetest.net
-# DOMAIN-SUFFIX,bsbsb.top
+DOMAIN-SUFFIX,bsbsb.top
 DOMAIN-SUFFIX,goofish.com
 
 
@@ -107,6 +107,10 @@ DOMAIN-SUFFIX,koodomobile.com
 DOMAIN-SUFFIX,koodomobile.ca
 
 DOMAIN,time.windows.com
+
+  # Spotify
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,heads-fa.scdn.co
 
 
 IP-CIDR,58.63.233.2/32,no-resolve
