@@ -109,8 +109,8 @@ DOMAIN-SUFFIX,koodomobile.ca
 DOMAIN,time.windows.com
 
   # Spotify
-DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
-DOMAIN-SUFFIX,scdn.co
+#DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+#DOMAIN-SUFFIX,scdn.co
 
 
 IP-CIDR,58.63.233.2/32,no-resolve
