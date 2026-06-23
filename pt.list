@@ -109,7 +109,7 @@ DOMAIN,time.windows.com
 #DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
 #DOMAIN-SUFFIX,scdn.co
 
-#DOMAIN-SUFFIX,fcapp.run
+DOMAIN-SUFFIX,fcapp.run
 
 
 IP-CIDR,58.63.233.2/32,no-resolve
