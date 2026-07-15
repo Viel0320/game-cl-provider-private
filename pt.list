@@ -110,7 +110,7 @@ DOMAIN,time.windows.com
 #DOMAIN-SUFFIX,scdn.co
 
 DOMAIN-SUFFIX,fcapp.run
-
+DOMAIN-SUFFIX,cnyiot.com
 
 IP-CIDR,58.63.233.2/32,no-resolve
 IP-CIDR,58.63.233.3/32,no-resolve
