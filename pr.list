@@ -40,7 +40,8 @@ DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,pilipiliultra.com
 DOMAIN-SUFFIX,biliblili.uk
 DOMAIN-SUFFIX,bangumi.ca
-
+DOMAIN-SUFFIX,dl.google.com
+DOMAIN-SUFFIX,repo.mavenapache.org
 
 
 IP-CIDR,198.18.12.28/32,no-resolve
