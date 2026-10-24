@@ -43,7 +43,7 @@ DOMAIN-SUFFIX,bangumi.ca
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,repo.mavenapache.org
 
-DOMAIN-SUFFIX,z.ai
+#DOMAIN-SUFFIX,z.ai
 
 IP-CIDR,198.18.12.28/32,no-resolve
 IP-CIDR,198.18.12.29/32,no-resolve
