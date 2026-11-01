@@ -45,10 +45,6 @@ DOMAIN-SUFFIX,repo.mavenapache.org
 
 #DOMAIN-SUFFIX,z.ai
 
-IP-CIDR,198.18.12.28/32,no-resolve
-IP-CIDR,198.18.12.29/32,no-resolve
-IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,8.8.8.8/32,no-resolve
 
 
 
